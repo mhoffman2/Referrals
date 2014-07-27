@@ -16,3 +16,5 @@ sum zz
 
 gen xx = zz + 3
 sum xx
+
+reg zz xx, robust
