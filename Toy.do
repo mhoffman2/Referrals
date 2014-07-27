@@ -12,3 +12,7 @@ set obs 1000
 
 gen zz = uniform()
 sum zz
+
+
+gen xx = zz + 3
+sum xx
